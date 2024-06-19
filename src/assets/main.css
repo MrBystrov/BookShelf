@@ -1,0 +1,26 @@
+.btn {
+  padding: 10px 20px;
+  align-self: center;
+  background-color: rgb(141, 221, 141);
+  color: #032b03;
+  border: 2px solid currentColor;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s background-color;
+}
+.btn:hover {
+  background-color: #6ead68;
+}
+.btn:active {
+  background-color: #285c23;
+}
+p {
+  margin: 0;
+}
+h2, h3 { 
+  margin: 0;
+}
+body {
+  box-sizing: border-box;
+  background-color: rgb(164, 207, 164);
+}
